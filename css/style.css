@@ -28,6 +28,7 @@ a:focus {
     outline: 0px auto -webkit-focus-ring-color;
     outline-offset: 0px;
     text-decoration:none;
+    color: #e6cf8b;
     
     
 }
